@@ -6,14 +6,14 @@ public class Dog {
         int age;
         int legs;
         String breed;
-        Dog()
+       // Dog()
         {
             System.out.println("I am dc");
         }
-        Dog(String breed)
+        //Dog(String breed)
         {
             System.out.println("I am pc");
-            this.breed = breed;
+           // this.breed = breed;
         }
         //void walk()
        // {
